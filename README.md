@@ -25,6 +25,13 @@ The pipeline achieves:
 
 ---
 
+## ⚡ Quick Links
+- 📖 **[USER_GUIDE.md](USER_GUIDE.md)**: **First-Time User Step-by-Step Guide** (setup, GUI demo, CLI commands, troubleshooting).
+- 📄 **[PROJECT_REPORT.pdf](PROJECT_REPORT.pdf)**: **Compiled Academic Project Report** with embedded figures, math, and tables.
+- 📝 **[PROJECT_REPORT.md](PROJECT_REPORT.md)**: Markdown source of the project report.
+
+---
+
 ## 📁 Repository Structure
 ```
 PR_Micro-Project_IRIS/
